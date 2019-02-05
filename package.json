@@ -1,0 +1,49 @@
+{
+  "name": "react-native-group-checkbox",
+  "version": "1.0.3",
+  "license": "MIT",
+  "description": "react-native checkboxes component for ios and android",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.6.3",
+    "react-native": "0.58.3",
+    "prop-types": "^15.5.7"
+  },
+  "devDependencies": {
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "24.0.0",
+    "jest": "24.0.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tdle94/react-native-group-checkbox.git"
+  },
+  "author": "Tuyen Le",
+  "homepage": "https://github.com/tdle94/react-native-group-checkbox",
+  "bugs": "https://github.com/tdle94/react-native-group-checkbox/issues",
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-checkbox",
+    "react-native-checkboxes",
+    "react-native-group-checkboxes",
+    "check-boxes",
+    "check-box",
+    "check",
+    "box",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "jest": {
+    "preset": "react-native"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+}
+}
